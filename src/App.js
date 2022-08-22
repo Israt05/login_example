@@ -11,6 +11,10 @@ function App() {
     </div>
   );
 }
+x=10; 
+//y=10;
+//sum=x/y;
+
 
 export default App;
 
